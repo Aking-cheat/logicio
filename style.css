@@ -1,0 +1,80 @@
+h1.go{
+	color: greenyellow;
+}
+
+
+h1.titre{
+	color: black;
+}
+button.download{
+	background: #1C9B9D;
+	font-size: 20pt;
+}
+
+
+body{
+	background: #E97B9C;
+}
+
+p.intro{
+	font-family: Arial;
+	font-size: 20pt;
+}
+
+p.explications{
+	font-size: 20pt;
+	font-family: Arial;
+}
+
+p.sub{
+	font-family: Blackadder ITC;
+	font-size: 20pt;
+}
+button.subs{
+	background: #1C9B9D;
+	font-size: 20px;
+}
+
+p.sub{
+	font-size: 27pt;
+}
+
+h1.qr_title{
+}
+
+p.dwnld{
+	font-size: 20pt;
+}
+
+button.boutons{
+	background: #1C9B9D;
+	font-size: 20pt;
+}
+
+ul{
+	font-size: 17pt;
+}
+
+nav.menu ul li.menu_der{
+	display: inline-block;
+	list-style-type: none;
+}
+
+nav.menu ul li.menu_der a{
+	color: #E97B9C;
+	background: #ed376d;
+	text-decoration: none;
+	padding: 10px;
+	font-size: 22pt;
+	border-radius: 5%;
+}
+
+nav.menu ul li.menu_der:hover a{
+	color: #ed376d;
+	background: #E97B9C;
+	transition: 0.4s;
+}
+
+p.Descr{
+	font-size: 15pt;
+}
